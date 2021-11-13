@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Anahit Sargsyan"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Anahit Sargsyan"
 description              : &description "personal description"
 url                      : https://asargsian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
