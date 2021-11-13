@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anahit Sargsyan / "
+title                    : "Anahit Sargsyan"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anahit Sargsyan"
   avatar           : "profile1.png"
-  bio              : 
+  bio              : "Assistant Instructor at New York University Abu Dhabi"
   location         : "Abu Dhabi, UAE"
   employer         :
   pubmed           : 
